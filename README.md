@@ -7,4 +7,6 @@ Testing i2c communciation between the `nRF52840-mdk board` (running the Rust nRF
    - Screenshot of test results
      - Unable to transfer 2 zero bytes. The TWIM peripheral's AMOUNT register reports no bytes were sent. 
 
+![My Setup][https://github.com/nihalpasham/testnRFi2c/blob/master/IMG_6441%5B17415%5D.JPG]
+
 ![Debuuging Output](https://github.com/nihalpasham/testnRFi2c/blob/master/2020-06-23.png)
